@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix sumatif ke-3 matematika",
+  "description": "Aplikasi Tes Sumatif Matematika Kelas VI SD Negeri 3 Loloan Timur Materi Konsep Rasio (Membandingkan Benda dan Pengertian Rasio) KKTP 60 dengan 4 tahap tes, sinkronisasi Google Spreadsheet, unduh PDF & Word naskah, serta panel guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
